@@ -158,10 +158,8 @@ blockquote {
 
 .bolt {
   position: absolute;
-  width: 400vh;
-  -webkit-transform: scale(0.5);
-  -ms-transform: scale(0.5);
-  transform: scale(0.5);
+  width: 300vh;
+
 }
 
 @media screen and (max-width: 991px) {
